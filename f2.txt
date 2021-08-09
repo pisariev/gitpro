@@ -1,6 +1,6 @@
 This is my file f2.txt
 Added one more line
 
-master: line in f2
+master: new line in f2
 
 
